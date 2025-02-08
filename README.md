@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malaybhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malaybhunia" height="30" width="40" /></a>
-<a href="https://instagram.com/malaybhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malaybhunia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/malaybhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="malaybhunia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/malay2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="malay2200" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/malay-bhunia-14ab712a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malaybhunia" height="30" width="40" /></a>
+<a href="https://instagram.com/invites/contact/?igsh=54o3vo0dtv6d&utm_content=rf2uw6e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malaybhunia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mum2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="malaybhunia" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Malay2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="malay2200" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
