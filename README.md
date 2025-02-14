@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/png-clipart/20220510/original/pngtree-programming-and-coding-banner-working-png-image_7696638.png)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGwTdl22VgjFA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735491227036?e=1744848000&v=beta&t=WByR_vZ7_Qfu3S4lJ4gs38NINtoMrsSrn0HvJ6VIhUY)
 <h1 align="center">Hi 👋, I'm Malay Bhunia</h1>
 <h3 align="center">A Passionate Backend Developer From India</h3>
 
