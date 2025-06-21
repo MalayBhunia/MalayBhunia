@@ -79,7 +79,5 @@ if __name__ == '__main__':
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
-<br>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
-<br>
 <br>
