@@ -74,7 +74,10 @@ if __name__ == '__main__':
 
 | ![Malay's github stats](https://github-readme-stats.vercel.app/api?username=malaybhunia&show_icons=true&theme=tokyonight) | ![Malay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malaybhunia&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaybhunia&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=malaybhunia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaybhunia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=malaybhunia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=malaybhunia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
