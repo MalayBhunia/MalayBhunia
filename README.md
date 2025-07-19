@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=ff0000&size=15&center=true&lines=Hello+Friends,+I'm+Malay.;Welcome+to+my+Github+Page!)](https://git.io/typing-svg)
 
 
-### Things I code with: 
+### 💻 Things I code with
                          
  <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,7 +39,7 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
     -->
-### More about me:
+### 🎯 More about me
 ```python
 class Malay():
     
@@ -56,32 +56,48 @@ class Malay():
 if __name__ == '__main__':
     me = Malay()
 ```
-
-   
+<br>
 </p>
 
-## Contribution Snake:
-<!-- ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg) -->
+
+## 📈 Contribution Snake
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
+![Malay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malaybhunia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malaybhunia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malaybhunia&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malaybhunia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Malay GitHub Activity Graph:
-
-| ![Malay's github stats](https://github-readme-stats.vercel.app/api?username=malaybhunia&show_icons=true&theme=tokyonight) | ![Malay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malaybhunia&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaybhunia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=malaybhunia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=malaybhunia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
-<br>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=malaybhunia&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=84,226,27&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+</div>
