@@ -47,8 +47,8 @@ class Malay():
     self.name = "Malay Bhunia";
     self.username = "M.Bhunia";
     self.location = "Kolkata, India";
-    self.current_goal = "Data Analyst";
-    self.looking_for = "collaborating with you";
+    self.current_goal = "Data scientist";
+    self.looking_for = "Data Analyst JOB";
   
   def __str__(self):
     return self.name
@@ -60,11 +60,13 @@ if __name__ == '__main__':
    
 </p>
 
-<br>
-
 ## Contribution Snake:
 <!-- ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg) -->
-<img align="centre" style="height:250px" alt="GIF" src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 
 ## 🏆 GitHub Trophies
