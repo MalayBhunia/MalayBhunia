@@ -1,11 +1,12 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
+  <img width="1210" height="240" alt="image" src="https://github.com/user-attachments/assets/a33cc9a9-c20a-4b29-b5d1-0405cfba8c69" />
 </p>
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
-<!--   <h1 align="center"><b>Hello World, I'm Malay 👋</b></h1> -->
-   
+
+
   <h1 align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=ff0000&size=15&center=true&lines=Hello+Friends,+I'm+Malay.;Welcome+to+my+Github+Page!)](https://git.io/typing-svg)
@@ -45,7 +46,7 @@ class Malay():
     
   def __init__(self):
     self.name = "Malay Bhunia";
-    self.username = "M.Bhunia";
+    self.gmail = "mbhunia098@gmail.com";
     self.location = "Kolkata, India";
     self.current_goal = "Data scientist";
     self.looking_for = "Data Analyst JOB";
@@ -83,19 +84,19 @@ if __name__ == '__main__':
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malaybhunia&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malaybhunia&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF0000&fire=DC143C&currStreakLabel=1E90FF)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malaybhunia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=malaybhunia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=malaybhunia&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=malaybhunia&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=malaybhunia&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 <div align="center">
