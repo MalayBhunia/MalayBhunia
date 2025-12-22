@@ -12,6 +12,7 @@
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=ff0000&size=15&center=true&lines=Hello+Friends,+I'm+Malay.;Welcome+to+my+Github+Page!)](https://git.io/typing-svg)
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ### 💻 Things I code with
                          
