@@ -7,7 +7,7 @@
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 
-### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
+### Happy to see you here! 
 
 I’m an aspiring data analyst passionate about transforming raw datasets into strategic insights. I build interactive dashboards and uncover trends that support informed decision-making. Using SQL, Python, Excel, and Power BI, I bridge the gap between complex data and actionable solutions through technical precision and continuous learning.
 
@@ -17,3 +17,4 @@ I’m an aspiring data analyst passionate about transforming raw datasets into s
 - 🚀 Exploring AI concepts & advanced analytics;
 - 💬 Happy to help with data analysis, dashboards, and beginner queries;
 - 📫 How to reach me: mbhunia098@gmail.com
+
