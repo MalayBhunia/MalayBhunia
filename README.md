@@ -9,12 +9,14 @@
 
 ### Happy to see you here! 
 
-I’m an aspiring data analyst passionate about transforming raw datasets into strategic insights. I build interactive dashboards and uncover trends that support informed decision-making. Using SQL, Python, Excel, and Power BI, I bridge the gap between complex data and actionable solutions through technical precision and continuous learning.
+I’m an aspiring data analyst passionate about transforming raw datasets into strategic insights. I build interactive dashboards and uncover trends that support informed decision-making. Using SQL, Python, Excel, and Power BI, I bridge the gap between complex data and actionable solutions. Check out my repositories below to see these skills in action. <img align='right' src="Thinking.gif" alt="Coding Boy" width="270">
 
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 Currently building real-world data analytics projects;
 - 🚀 Exploring AI concepts & advanced analytics;
-- 💬 Happy to help with data analysis, dashboards, and beginner queries;
+- 🎯 Future plan: Transitioning to a data scientist role;
+- 💬 Happy to help with data analysis and dashboards;
 - 📫 How to reach me: mbhunia098@gmail.com
+
 
