@@ -9,21 +9,21 @@
 
 ### Happy to see you here! 
 
-I’m an aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align='right' src="Thinking.gif" alt="Coding Boy" width="280">
+I’m an aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align='right' src="Thinking.gif" alt="Coding Boy" width="285">
 
-**Talking about Personal Stuff:**
+**🙋‍♂️ Talking about Personal Stuff :**
 
-- 👨🏻‍💻 Building real-world analytics projects with Excel, SQL, Python and Power BI.
-- 📊 Enjoy turning complex datasets into clear insights and interactive dashboards.
-- 💬 Always happy to help with data analysis, dashboards, and project discussions.
-- 🚀 Actively learning AI concepts and advanced analytics.
+- 👨🏻‍💻 *Building real-world analytics projects with* Excel, SQL, Python and Power BI.
+- 📊 *Enjoy turning complex datasets into clear insights and interactive dashboards.*
+- 💬 *Always happy to help with data analysis, dashboards, and project discussions.*
+- 🚀 *Actively learning AI concepts and advanced analytics.*
 - 🎯 Future plan: Transitioning to a **Data Scientist** role.
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
 
 <!-- <div align="right"> <img src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blueviolet" />   <img src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> </div> -->
 ## 🛠 Tech Stack & Expertise
-- **Data Analysis:** Proficient in Python (Pandas, NumPy) for cleaning, wrangling, and EDA to drive forecast accuracy.
-- **Database Management:** Advanced SQL (PostgreSQL, MySQL) for complex querying, CTEs, and database optimization.
-- **BI & Visualization:** Building interactive Power BI dashboards and statistical plots via Seaborn and Matplotlib.
-- **Web Scraping:** Skilled in Selenium and Python for automated extraction of dynamic web data into custom datasets.
-- **Tools & Productivity:** Experienced with GitHub for version control, Jupyter Notebooks, and Advanced Excel.
+- **Data Analysis:** *Proficient in Python (Pandas, NumPy) for cleaning, wrangling, and EDA to drive forecast accuracy.*
+- **Database Management:** *Advanced SQL (PostgreSQL, MySQL) for complex querying, CTEs, and database optimization.*
+- **BI & Visualization:** *Building interactive Power BI dashboards and statistical plots via Seaborn and Matplotlib.*
+- **Web Scraping:** *Skilled in Selenium and Python for automated extraction of dynamic web data into custom datasets.*
+- **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced Excel.*
