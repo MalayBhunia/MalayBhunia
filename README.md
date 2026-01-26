@@ -29,21 +29,9 @@ I’m an aspiring **Data Analyst** passionate about turning raw data into clear,
 - **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced Excel.*
 
 ## 📜 Certifications
-| Certification | Issuing Organization | Issue Date | Verification Link |
-| :--- | :--- | :--- | :--- |
-| **Python for Data Science** | IBM / Coursera | Jan 2026 | [View Certificate ↗️](https://your-link-here.com) |
-| **Web Scraping & Data Mining** | Udemy | Feb 2026 | [View Certificate ↗️](https://your-link-here.com) |
-| **Google Data Analytics** | Google | Jun 2025 | [View Certificate ↗️](https://your-link-here.com) |
-
-## 🏆 Certifications & Achievements
-* 🎓 **Complete Python Developer** – Zero To Mastery | [Verify Credential](https://your-link-here.com)
-* 📊 **Data Analysis with Python** – FreeCodeCamp | [Verify Credential](https://your-link-here.com)
-* 🛠️ **SQL for Data Analytics** – Mode | [Verify Credential](https://your-link-here.com)
-
-## 📜 Certifications
-
-• Data Analytics – [Certificate](https://your-certificate-link.com)
-• SQL for Data Analysis – [Certificate](https://your-certificate-link.com)
-• Python for Data Analysis – [Certificate](https://your-certificate-link.com)
-• Power BI & Excel – [Certificate](https://your-certificate-link.com)
-• AI & Analytics Fundamentals – [Certificate](https://your-certificate-link.com)
+| Certification | Issuing Organization | Issue Date | Skills Learned | Verification Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Data Analysis with Python** | IBM / Cognitive Class | Jan 2026 | Pandas, Numpy, Scipy | [View Certificate ↗️](https://courses.cognitiveclass.ai/certificates/7aa03d70f9484f5983d8afd7015494fa) |
+| **SQL (Intermediate)** | HackerRank | Jan 2026 | Joins, Subqueries, Aggregations | [View Certificate ↗️](https://www.hackerrank.com/certificates/iframe/cb54bdde4012) |
+| **Data Visualization with Python** | IBM / Cognitive Class | Dec 2025 | Matplotlib, Seaborn, Charts | [View Certificate ↗️](https://courses.cognitiveclass.ai/certificates/3b173dc2b8024c3398d468be3b495f4d) |
+| **Python for Beginners** | MySirG.com | Dec 2023 | Core Python, Logic, Loops | [View Certificate ↗️](premium.mysirg.com/learn/certificate/9120296-173476) |
