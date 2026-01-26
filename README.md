@@ -9,9 +9,10 @@
 
 ### Happy to see you here! 
 
-I’m an aspiring data analyst passionate about transforming raw datasets into strategic insights. I build interactive dashboards and uncover trends that support informed decision-making. Using SQL, Python, Excel, and Power BI, I bridge the gap between complex data and actionable solutions. Check out my repositories below to see these skills in action. <img align='right' src="Thinking.gif" alt="Coding Boy" width="290">
+I’m an aspiring Data Analyst who loves turning raw data into clear, actionable insights. I build interactive dashboards, analyze trends, and uncover patterns that support data-driven decision-making. <br><br>
+With hands-on experience in SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and meaningful business solutions. I enjoy working on real-world projects and continuously exploring advanced analytics and AI concepts. <img align='right' src="Thinking.gif" alt="Coding Boy" width="290">
 
-**🙋‍♂️ Talking about Personal Stuff:**
+**Talking about Personal Stuff:**
 
 - 👨🏻‍💻 Building real-world analytics projects with Excel, SQL, Python and Power BI.
 - 📊 Enjoy turning complex datasets into clear insights and interactive dashboards.
