@@ -35,3 +35,15 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 | **SQL (Intermediate)** | HackerRank | Jan 2026 | Joins, Subqueries, Aggregations | [View Certificate ↗️](https://www.hackerrank.com/certificates/iframe/cb54bdde4012) |
 | **Data Visualization with Python** | IBM / Cognitive Class | Dec 2025 | Matplotlib, Seaborn, Charts | [View Certificate ↗️](https://courses.cognitiveclass.ai/certificates/3b173dc2b8024c3398d468be3b495f4d) |
 | **Python for Beginners** | MySirG.com | Dec 2023 | Core Python, Logic, Loops | [View Certificate ↗️](premium.mysirg.com/learn/certificate/9120296-173476) |
+
+
+---
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=F7C948&center=true&vCenter=true&width=720&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />
+
+<br/>
+
+⭐ ⭐ ⭐ ⭐ ⭐  
+
+<b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
+</div>
