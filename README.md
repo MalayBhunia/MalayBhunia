@@ -22,8 +22,28 @@ I’m an aspiring **Data Analyst** passionate about turning raw data into clear,
 
 <!-- <div align="right"> <img src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blueviolet" />   <img src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> </div> -->
 ## 🛠 Tech Stack & Expertise
-- **Data Analysis:** *Proficient in Python (Pandas, NumPy) for cleaning, wrangling, and EDA to drive forecast accuracy.*
-- **Database Management:** *Advanced SQL (PostgreSQL, MySQL) for complex querying, CTEs, and database optimization.*
-- **BI & Visualization:** *Building interactive Power BI dashboards and statistical plots via Seaborn and Matplotlib.*
-- **Web Scraping:** *Skilled in Selenium and Python for automated extraction of dynamic web data into custom datasets.*
+- **Data Analysis:** *Proficient in Python (**Pandas, NumPy**) for cleaning, wrangling, and **EDA** to drive forecast accuracy.*
+- **Database Management:** *Advanced SQL (**PostgreSQL, MySQL**) for complex querying, CTEs, and database optimization.*
+- **BI & Visualization:** *Building interactive **Power BI** dashboards and statistical plots via **Seaborn and Matplotlib**.*
+- **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*
 - **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced Excel.*
+
+## 📜 Certifications
+| Certification | Issuing Organization | Issue Date | Verification Link |
+| :--- | :--- | :--- | :--- |
+| **Python for Data Science** | IBM / Coursera | Jan 2026 | [View Certificate ↗️](https://your-link-here.com) |
+| **Web Scraping & Data Mining** | Udemy | Feb 2026 | [View Certificate ↗️](https://your-link-here.com) |
+| **Google Data Analytics** | Google | Jun 2025 | [View Certificate ↗️](https://your-link-here.com) |
+
+## 🏆 Certifications & Achievements
+* 🎓 **Complete Python Developer** – Zero To Mastery | [Verify Credential](https://your-link-here.com)
+* 📊 **Data Analysis with Python** – FreeCodeCamp | [Verify Credential](https://your-link-here.com)
+* 🛠️ **SQL for Data Analytics** – Mode | [Verify Credential](https://your-link-here.com)
+
+## 📜 Certifications
+
+• Data Analytics – [Certificate](https://your-certificate-link.com)
+• SQL for Data Analysis – [Certificate](https://your-certificate-link.com)
+• Python for Data Analysis – [Certificate](https://your-certificate-link.com)
+• Power BI & Excel – [Certificate](https://your-certificate-link.com)
+• AI & Analytics Fundamentals – [Certificate](https://your-certificate-link.com)
