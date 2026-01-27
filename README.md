@@ -1,12 +1,24 @@
-<!-- ## 👤 About Me -->
-### Hi there, I'm <a href="https://skst.in" target="_blank">Malay Bhunia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+<!-- <h2>
+  Hi there, I'm <a href="https://skst.in" target="_blank">Malay Bhunia</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /><br>
+   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=17&duration=3000&pause=800&color=F7C948&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
+</h2> -->
+
+<div style="line-height: 0.5;">
+  <h2 style="margin-bottom: 0;">
+    Hi there, I'm <a href="https://skst.in" target="_blank">Malay Bhunia</a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+  </h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F7C948&vCenter=true&width=500&height=30&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malay-bhunia-14ab712a6/)
 [![Email](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white)](mailto:mbhunia098@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
-
+## 👤 About Me 
 ### Happy to see you here! 
 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align='right' src="Thinking.gif" alt="Coding Boy" width="285">
@@ -39,11 +51,9 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 ---
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=F7C948&center=true&vCenter=true&width=720&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />
-
-<br/>
-
-⭐ ⭐ ⭐ ⭐ ⭐  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F7C948&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />
+  
+<sub>⭐ ⭐ ⭐ ⭐ ⭐</sub>
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
 </div>
