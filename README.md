@@ -1,22 +1,12 @@
-
-<!-- <h2>
-  Hi there, I'm <a href="https://skst.in" target="_blank">Malay Bhunia</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /><br>
-   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=17&duration=3000&pause=800&color=F7C948&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
-</h2> -->
-
-<div style="line-height: 0.5;">
-  <h2 style="margin-bottom: 0;">
-    Hi there, I'm <a href="https://skst.in" target="_blank">Malay Bhunia</a>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-  </h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F7C948&vCenter=true&width=500&height=30&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
-</div>
-
+<h2 align="left">Hi there, I'm <a href="https://skst.in" target="_blank">Malay Bhunia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F08D30&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malay-bhunia-14ab712a6/)
 [![Email](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white)](mailto:mbhunia098@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
-[![Naukri Badge](https://img.shields.io/badge/-Naukri-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+</h2>
 
 ## 👤 About Me 
 ### Happy to see you here! 
