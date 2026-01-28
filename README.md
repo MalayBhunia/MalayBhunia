@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
-👤 About Me</h2>
+👤 About Me </h2>
 ### Happy to see you here! 
 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align='right' src="Thinking.gif" alt="Coding Boy" width="285">
@@ -36,6 +36,10 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 | **SQL (Intermediate)** | HackerRank | Jan 2026 | Joins, Subqueries, Aggregations | [View Certificate ↗️](https://www.hackerrank.com/certificates/iframe/cb54bdde4012) |
 | **Data Visualization with Python** | IBM / Cognitive Class | Dec 2025 | Matplotlib, Seaborn, Charts | [View Certificate ↗️](https://courses.cognitiveclass.ai/certificates/3b173dc2b8024c3398d468be3b495f4d) |
 | **Python for Beginners** | MySirG.com | Dec 2023 | Core Python, Logic, Loops | [View Certificate ↗️](premium.mysirg.com/learn/certificate/9120296-173476) |
+
+## 📄 Resume
+📌 **Download my resume (PDF)**  
+🔗 [Malay Bhunia – Data Analyst Resume](https://github.com/USERNAME/REPO/raw/main/Malay%20Bhunia%20Resume.pdf)
 
 
 ---
