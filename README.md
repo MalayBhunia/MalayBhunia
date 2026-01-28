@@ -22,12 +22,19 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
 
 <!-- <div align="right"> <img src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blueviolet" />   <img src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> </div> -->
-## 🛠 Tech Stack & Expertise
-- **Data Analysis:** *Proficient in Python (**Pandas, NumPy**) for cleaning, wrangling, and EDA to drive forecast accuracy.*
-- **Database Management:** *Advanced SQL (**PostgreSQL, MySQL**) for complex querying, CTEs, and database optimization.*
-- **BI & Visualization:** *Building interactive **Power BI** dashboards and statistical plots via **Seaborn and Matplotlib**.*
-- **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*
-- **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*
+## 🛠 Tech Stack & Expertise<br>
+🔹 **Data Analysis:** *Proficient in Python (**Pandas, NumPy**) for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
+🔹 **Database Management:** *Advanced SQL (**PostgreSQL, MySQL**) for complex querying, CTEs, and database optimization.*<br>
+🔹 **BI & Visualization:** *Building interactive **Power BI** dashboards and statistical plots via **Seaborn and Matplotlib**.*<br>
+🔹 **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*<br>
+🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
+ 
+## 📊 Featured Projects
+ 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <img align="right" alt="Boy working on computer" width="230" src="BlackG.gif" /> <br>
+🔹 **LinkedIn Jobs Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/Linkedin_Jobs_Data_Analysis)  
+🔹 **India Crime Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
+🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
+🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) 
 
 ## 📜 Certifications
 | Certification | Issuing Organization | Issue Date | Skills Learned | Verification Link |
@@ -39,8 +46,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 ## 📄 Resume
 📌 **Download my resume (PDF)**  
-🔗 [Malay Bhunia – Data Analyst Resume](https://github.com/USERNAME/REPO/raw/main/Malay%20Bhunia%20Resume.pdf)
-
+🔗 [Malay Bhunia – Data Analyst Resume](https://github.com/MalayBhunia/MalayBhunia/blob/main/Malay%20Bhunia%20Cv.pdf)
 
 ---
 <div align="center">
