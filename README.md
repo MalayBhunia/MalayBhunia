@@ -6,9 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white)](mailto:mbhunia098@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
+👤 About Me
 </h2>
 
-## 👤 About Me 
 ### Happy to see you here! 
 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align='right' src="Thinking.gif" alt="Coding Boy" width="285">
