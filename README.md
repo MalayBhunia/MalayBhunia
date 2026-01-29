@@ -30,11 +30,20 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
  
 ## 📊 Featured Projects
- 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <img align="right" alt="Boy working on computer" width="230" src="BlackG.gif" /> <br>
+ 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <img align="right" alt="Boy working on computer" width="220" src="BlackG.gif" /> <br>
 🔹 **LinkedIn Jobs Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/Linkedin_Jobs_Data_Analysis)  
 🔹 **India Crime Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
 🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) 
+
+## 🎓 Education
+&nbsp; **Bachelor of Technology in Computer Science and Engineering**  
+&nbsp; Swami Vivekananda University, Barrackpure  
+&nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
+
+&nbsp; **Higher Secondary (HS)**  
+&nbsp; Tikrapara A. M. High School  
+&nbsp; **Percentage: 92%** | *June 2020 - June 2022*
 
 ## 📜 Certifications
 | Certification | Issuing Organization | Issue Date | Skills Learned | Verification Link |
