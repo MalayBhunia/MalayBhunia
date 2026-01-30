@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F08D30&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
 </div>
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malay-bhunia-14ab712a6/)
 [![Email](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white)](mailto:mbhunia098@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
 
 ## 👤 About Me
 ### Happy to see you here! 
@@ -24,6 +24,9 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 - 🚀 *Actively learning AI concepts and advanced analytics.*
 - 🎯 Future plan: Transitioning to a **Data Scientist** role.
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
+- 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a>
+
+
 
 <!-- <div align="right"> <img src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blueviolet" />   <img src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> </div> -->
 ## 🛠 Tech Stack & Expertise<br>
@@ -56,10 +59,6 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 | **SQL (Intermediate)** | HackerRank | Jan 2026 | Joins, Subqueries, Aggregations | [View Certificate ↗️](https://www.hackerrank.com/certificates/iframe/cb54bdde4012) |
 | **Data Visualization with Python** | IBM / Cognitive Class | Dec 2025 | Matplotlib, Seaborn, Charts | [View Certificate ↗️](https://courses.cognitiveclass.ai/certificates/3b173dc2b8024c3398d468be3b495f4d) |
 | **Python for Beginners** | MySirG.com | Dec 2023 | Core Python, Logic, Loops | [View Certificate ↗️](premium.mysirg.com/learn/certificate/9120296-173476) |
-
-## 📄 Resume
-📌 **Download my resume (PDF)**  
-🔗 [Malay Bhunia – Data Analyst Resume](https://github.com/MalayBhunia/MalayBhunia/blob/main/Malay%20Bhunia%20Cv.pdf)
 
 ---
 <div align="center">
