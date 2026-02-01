@@ -37,11 +37,12 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
  
 ## 📊 Featured Projects
- 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <img align="right" alt="Boy working on computer" width="220" src="BlackG.gif" /> <br>
+ 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <img align="right" alt="Boy working on computer" width="225" src="BlackG.gif" /> <br>
 🔹 **LinkedIn Jobs Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/Linkedin_Jobs_Data_Analysis)  
 🔹 **India Crime Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
-🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) 
+🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
+🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
 
 ## 🎓 Education
 &nbsp; **Bachelor of Technology in Computer Science and Engineering**  
