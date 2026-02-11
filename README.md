@@ -35,15 +35,15 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*<br>
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
  
-## 📊 Featured Projects
-🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
-🔹 **Naukri.com Job Market Analysis (Python, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
-🔹 **India Crime Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
+## 📊 Featured Projects  <br><img align='right' src="Thinking.gif" alt="Coding Boy" width="200">
+🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL and Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
+🔹 **Naukri.com Job Market Analysis (Python Lib, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
+🔹 **India Crime Data Analysis (Pandas, NumPy and Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
 🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
 
-## 🎓 Education <br><img align='right' src="Thinking.gif" alt="Coding Boy" width="220">
+## 🎓 Education
 &nbsp; **Bachelor of Technology in Computer Science and Engineering**  
 &nbsp; Swami Vivekananda University, Barrackpure  
 &nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
@@ -62,11 +62,9 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 ---
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F7C948&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />
-  
-<sub>⭐ ⭐ ⭐ ⭐ ⭐</sub>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F08D30&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
+<!-- <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub> -->
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08D30&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08D30&height=90&section=footer"/>
 </div>
 
