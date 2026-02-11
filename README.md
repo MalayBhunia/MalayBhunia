@@ -1,7 +1,4 @@
-<div style="line-height:0; margin:0; padding:0;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F08D30&height=60&section=header"/>
-</div>
-<div align="left" style="font-size:10.5em; font-weight:bold; margin-top:-10px;">
+<div align="left" style="font-size:10.5em; font-weight:bold; margin-top:-20px;"> 
   Hi there, I'm <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">Malay Bhunia</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
   <br>
@@ -70,6 +67,6 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub>
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=85&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08D30&height=80&section=footer"/>
 </div>
 
