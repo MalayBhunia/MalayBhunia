@@ -36,9 +36,9 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*<br>
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
  
-## 📊 Featured Projects
- 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <img align="right" alt="Boy working on computer" width="225" src="BlackG.gif" /> <br>
-🔹 **Naukri.com Job Market Analysis (Python, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  
+## 📊 Featured Projects  <br> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL & Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
+🔹 **Naukri.com Job Market Analysis (Python, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
 🔹 **India Crime Data Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
 🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
