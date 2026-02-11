@@ -11,11 +11,11 @@
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 
-## 👤 About Me
+## 👤 About Me 
 ### Happy to see you here! 
 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
-<!-- <img align='right' src="Thinking.gif" alt="Coding Boy" width="285"> -->
+
 **🙋‍♂️ Talking about Personal Stuff :**
 
 - 👨🏻‍💻 *Building real-world analytics projects with* Excel, SQL, Python and Power BI.
@@ -24,8 +24,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 - 🚀 *Actively learning AI concepts and advanced analytics.*
 - 🎯 Future plan: Transitioning to a **Data Scientist** role.
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
-- 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a>
-
+- 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a> 
 
 
 <!-- <div align="right"> <img src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blueviolet" />   <img src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> </div> -->
@@ -44,7 +43,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
 
-## 🎓 Education
+## 🎓 Education <br><img align='right' src="Thinking.gif" alt="Coding Boy" width="220">
 &nbsp; **Bachelor of Technology in Computer Science and Engineering**  
 &nbsp; Swami Vivekananda University, Barrackpure  
 &nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
@@ -68,4 +67,6 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub>
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=85&section=footer"/>
 </div>
+
