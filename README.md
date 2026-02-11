@@ -63,7 +63,9 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 ---
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F08D30&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
+  
 <!-- <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub> -->
+
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08D30&height=90&section=footer"/>
 </div>
