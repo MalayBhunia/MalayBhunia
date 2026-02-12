@@ -35,14 +35,14 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*<br>
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
  
-## 📊 Featured Projects  <br><img align='right' src="Thinking.gif" alt="Coding Boy" width="200">
+## 📊 Featured Projects  <br> <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="230" align="right"> 
 🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL and Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
 🔹 **Naukri.com Job Market Analysis (Python Lib, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
 🔹 **India Crime Data Analysis (Pandas, NumPy and Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
 🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
-
+<!-- <img align='right' src="Thinking.gif" alt="Coding Boy" width="200"> -->
 ## 🎓 Education
 &nbsp; **Bachelor of Technology in Computer Science and Engineering**  
 &nbsp; Swami Vivekananda University, Barrackpure  
