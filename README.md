@@ -36,7 +36,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
  
 ## 📊 Featured Projects 
-🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL and Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="215" align="right"> <br>
+🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL and Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> <br>
 🔹 **Naukri.com Job Market Analysis (Python Lib, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
 🔹 **India Crime Data Analysis (Pandas, NumPy and Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
