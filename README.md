@@ -11,7 +11,7 @@
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 
-## 👤 About Me 
+## 👤 About Me  <img align="right" width ="95" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia&color=red" /> <img align="right" width ="138" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" /> 
 ### Happy to see you here! 
 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
@@ -26,8 +26,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
 - 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a> 
 
-
-<!-- <div align="right"> <img src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blueviolet" />   <img src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> </div> -->
+ 
 ## 🛠 Tech Stack & Expertise<br>
 🔹 **Data Analysis:** *Proficient in Python (**Pandas, NumPy**) for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
 🔹 **Database Management:** *Advanced SQL (**PostgreSQL, MySQL**) for complex querying, CTEs, and database optimization.*<br>
