@@ -11,11 +11,12 @@
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) -->
 
 <!----- Profile Bar ----------------------------------------------------------------------------------------------------------------------->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
   <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" width="100%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" width="100%">
   </a>
-
+</p>
+<!-- <picture><img src="Image/about_me.gif" width = 30px align="center"></picture><b> About Me</b> -->
 <!-- <img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" /> -->
 ## 👤 About Me  
 ### Happy to see you here! 
