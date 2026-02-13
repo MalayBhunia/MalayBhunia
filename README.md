@@ -27,7 +27,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 - 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a> 
 
  
-## 🛠 Tech Stack & Expertise  <img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /><img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
+## 🛠 Tech Stack & Expertise  <img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" /><br>
 🔹 **Data Analysis:** *Proficient in Python (**Pandas, NumPy**) for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
 🔹 **Database Management:** *Advanced SQL (**PostgreSQL, MySQL**) for complex querying, CTEs, and database optimization.*<br>
 🔹 **BI & Visualization:** *Building interactive **Power BI** dashboards and statistical plots via **Seaborn and Matplotlib**.*<br>
