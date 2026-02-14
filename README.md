@@ -42,8 +42,8 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
 <!-- <img align='right' src="Thinking.gif" alt="Coding Boy" width="200"> -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="230" align="right"/> -->
-## 🎓 Education 
-&nbsp; **Bachelor of Technology in Computer Science and Engineering**  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="160" align="right" />
+## 🎓 Education <br> <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="190" align="right" />
+&nbsp; **Bachelor of Technology in Computer Science and Engineering**  
 &nbsp; Swami Vivekananda University, Barrackpure  
 &nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
 
@@ -66,10 +66,8 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
         <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
   </a>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=DE5900&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
-  
-<!-- <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub> -->
+
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
