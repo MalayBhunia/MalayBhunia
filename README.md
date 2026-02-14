@@ -10,9 +10,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) -->
 
-
-<!-- <img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" /> -->
-
 ## 👤 About Me  
 ### Happy to see you here! 
 
@@ -74,6 +71,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 <!-- <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub> -->
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E99DF&height=90&section=footer"/>
 </div>
 
+<img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
