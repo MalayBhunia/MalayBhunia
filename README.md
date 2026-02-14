@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F08D30&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
-</div>
+</div> -
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malay-bhunia-14ab712a6/)
 [![Email](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white)](mailto:mbhunia098@gmail.com)
@@ -41,14 +41,16 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
 <!-- <img align='right' src="Thinking.gif" alt="Coding Boy" width="200"> -->
-## 🎓 Education
-&nbsp; **Bachelor of Technology in Computer Science and Engineering**  
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="230" align="right"/> -->
+## 🎓 Education 
+&nbsp; **Bachelor of Technology in Computer Science and Engineering**  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="160" align="right" />
 &nbsp; Swami Vivekananda University, Barrackpure  
 &nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
 
-&nbsp; **Higher Secondary (HS)**  
+&nbsp; **Higher Secondary (HS)** <br>
 &nbsp; Tikrapara A. M. High School  
 &nbsp; **Percentage: 92%** | *June 2020 - June 2022*
+
 
 ## 📜 Certifications
 | Certification | Issuing Organization | Issue Date | Skills Learned | Verification Link |
@@ -58,20 +60,20 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 | **Data Visualization with Python** | IBM / Cognitive Class | Dec 2025 | Matplotlib, Seaborn, Charts | [View Certificate ↗️](https://courses.cognitiveclass.ai/certificates/3b173dc2b8024c3398d468be3b495f4d) |
 | **Python for Beginners** | MySirG.com | Dec 2023 | Core Python, Logic, Loops | [View Certificate ↗️](premium.mysirg.com/learn/certificate/9120296-173476) |
 
----
-<p align="center">
+--- 
+<div align="center">
   <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
   </a>
-</p>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F08D30&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=DE5900&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
   
 <!-- <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub> -->
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E99DF&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+<img align="right" width ="90" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
