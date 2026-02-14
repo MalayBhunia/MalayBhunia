@@ -10,13 +10,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) -->
 
-<!----- Profile Bar ----------------------------------------------------------------------------------------------------------------------->
-<p align="center">
-  <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
-  </a>
-</p>
-<!-- <picture><img src="Image/about_me.gif" width = 30px align="center"></picture><b> About Me</b> -->
+
 <!-- <img align="right" width ="86" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" /> -->
 
 ## 👤 About Me  
@@ -68,12 +62,18 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 | **Python for Beginners** | MySirG.com | Dec 2023 | Core Python, Logic, Loops | [View Certificate ↗️](premium.mysirg.com/learn/certificate/9120296-173476) |
 
 ---
+<p align="center">
+  <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
+  </a>
+</p>
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F08D30&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
   
 <!-- <sub>⭐ ⭐ ⭐ ⭐ ⭐</sub> -->
 
 <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08D30&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=90&section=footer"/>
 </div>
 
