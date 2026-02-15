@@ -5,11 +5,11 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 **🙋‍♂️ Talking about Personal Stuff :**
 
-- 👨🏻‍💻 *Building real-world end-to-end analytics projects using **Excel, SQL, Python and Power BI.***
-- ⏳ *Actively learning & implementing **Time Series Analysis** for forecasting & trend modeling*.
-- 📊 *Enjoy turning complex datasets into meaningful insights and interactive dashboards.*
-- 💬 *Always happy to help with data analysis, forecasting, and project discussions.*
-- 🚀 *Exploring AI concepts and advanced analytics for a Data Science transition.*
+- 👨🏻‍💻 *Building real-world Data analytics projects using **Excel, SQL, Python and Power BI.***
+- ⏳ *learning & applying **Time Series Analysis** for forecasting and trend modeling*.
+- 📊 *Turning complex datasets into meaningful insights & interactive dashboards.*
+- 💬 *Always happy to help with data analysis, forecasting & project discussions.*
+- 🚀 *Exploring AI concepts & advanced analytics for a Data Science transition.*
 - 🎯 Future plan: Transitioning to a **Data Scientist** role.
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
 - 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a> 
