@@ -5,7 +5,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 **🙋‍♂️ Talking about Personal Stuff :**
 
-- 👨🏻‍💻 *Building real-world Data analytics projects using **Excel, SQL, Python and Power BI.***
+- 👨🏻‍💻 *Building real-world analytics projects using **Excel, SQL, Python and Power BI.***
 - ⏳ *learning & applying **Time Series Analysis** for forecasting and trend modeling*.
 - 📊 *Turning complex datasets into meaningful insights & interactive dashboards.*
 - 💬 *Always happy to help with data analysis, forecasting & project discussions.*
