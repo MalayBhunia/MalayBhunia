@@ -32,17 +32,17 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **BI & Visualization:** *Building interactive **Power BI** dashboards and statistical plots via **Seaborn and Matplotlib**.*<br>
 🔹 **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*<br>
 🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
- 
+<!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
-🔹 **Flipkart Sales Data Analysis (Python, PostgreSQL and Power BI)** – [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> <br>
-🔹 **Naukri.com Job Market Analysis (Python Lib, Web Scraping)** – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
-🔹 **India Crime Data Analysis (Pandas, NumPy and Seaborn)** – [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
-🔹 **AI Financial Market Analysis (Pandas, NumPy & Seaborn)** – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
-🔹 **Covid-19 Data Analytics Dashboard (Power BI, Power Query)** – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
-🔹 **Customer Shopping Behavior Analysis (Python, SQL & Power BI)** – [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
-<!-- <img align='right' src="Thinking.gif" alt="Coding Boy" width="200"> -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="230" align="right"/> -->
-## 🎓 Education <br> <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="190" align="right" />
+🔹 **Flipkart Retail Product Dataset Analysis** | `Python` `PostgreSQL` `Power BI` `SQLAlchemy` `Jupyter Notebook`– [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <br>
+🔹 **Naukri Jobs Data Analysis Using Web Scraping** | `NumPy` `Pandas` `Seaborn` `Selenium` `Regex` `WebDriver` – [View Project →](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
+🔹 **Indian Crimes Dataset Analysis (2020 to 2024)** | `NumPy` `Pandas` `Seaborn` `Matplotlib` `Squarify` `Plotly`– [View Project →](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
+🔹 **AI Financial Market Data Analysis (2015 - 2024)** | `NumPy` `Pandas` `Seaborn` `Matplotlib` `Jupyter Notebook` – [View Project →](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
+🔹 **Covid-19 Data Analytics Dashboard – India State-wise** | `Power BI Desktop` `DAX` `Power Query` `KPIs` `Excel` – [View Project  →](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
+🔹 **Customer Shopping Behavior Analysis** | `Pandas` `Numpy` `EDA` `PostgreSQL` `windows function` `Power BI` `DAX`– [View Project  →](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
+
+
+## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
 &nbsp; **Bachelor of Technology in Computer Science and Engineering**  
 &nbsp; Swami Vivekananda University, Barrackpure  
 &nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
@@ -66,12 +66,9 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
         <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
   </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=DE5900&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=DE5900&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
 
-
-<b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-<img align="right" width ="90" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b> <br>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img align="right" width ="90" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
 </div>
-
