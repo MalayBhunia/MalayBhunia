@@ -1,16 +1,7 @@
-<!-- <div align="left" style="font-size:10.5em; font-weight:bold; margin-top:-20px;"> 
-  Hi there, I'm <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">Malay Bhunia</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F08D30&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" />
-</div> -
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malay-bhunia-14ab712a6/)
-[![Email](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white)](mailto:mbhunia098@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://malaybhunia.github.io/Data_Analyst/)
-[![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) -->
-
 ## 👤 About Me  
+
+###  Hi there, I'm <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">Malay Bhunia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"> <br> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=800&color=F08D30&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Building+Real-World+Analytics+Projects;Open+to+Data+Analytics+Roles" /> <br>  <a href="(https://www.linkedin.com/in/malay-bhunia-14ab712a6/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="27" height="20"/></a> [![Email.com](https://img.shields.io/badge/Email-8B0000?logo=gmail&logoColor=white&height="90")](mailto:mbhunia098@gmail.com) [![Email.com](https://img.shields.io/badge/Portfolio-3b5998?logo=google-chrome&logoColor=white&width="140")](https://malaybhunia.github.io/Data_Analyst/) [![Naukri Badge](https://img.shields.io/badge/-Naukri.com-e4405f?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) <a href="https://x.com/mbhunia098" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="27" height="23"></a>
+
 ### Happy to see you here! 
 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
@@ -27,11 +18,11 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
  
 ## 🛠 Tech Stack & Expertise <br>
-🔹 **Data Analysis:** *Proficient in Python (**Pandas, NumPy**) for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
-🔹 **Database Management:** *Advanced SQL (**PostgreSQL, MySQL**) for complex querying, CTEs, and database optimization.*<br>
-🔹 **BI & Visualization:** *Building interactive **Power BI** dashboards and statistical plots via **Seaborn and Matplotlib**.*<br>
-🔹 **Web Scraping:** *Skilled in **Selenium** and Python for automated extraction of dynamic web data into custom datasets.*<br>
-🔹 **Tools & Productivity:** *Experienced with GitHub for version control, Jupyter Notebooks, and Advanced **Excel**.*<br>
+🔹 **Data Analysis:** *Proficient in Python `Python`&`Numpy` for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
+🔹 **Database Management:** *Advanced SQL `PostgreSQL`&`MySQL` for complex querying, CTEs, and database optimization.*<br>
+🔹 **BI & Visualization:** *Building interactive `Power BI` dashboards and statistical plots via `Seaborn`&`Matplotlib`.*<br>
+🔹 **Web Scraping:** *Skilled in `Selenium` and Python for automated extraction of dynamic web data into custom datasets.*<br>
+🔹 **Tools & Productivity:** *Experienced with `GitHub` for version control, `Jupyter Notebooks` and Advanced `Excel`.*<br>
 <!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
 🔹 **Flipkart Retail Product Dataset Analysis** | `Python` `PostgreSQL` `Power BI` `SQLAlchemy` `Jupyter Notebook`– [View Project →](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <br>
@@ -63,7 +54,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 --- 
 <div align="center">
   <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=MalayBhunia&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" width="100%">
   </a>
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=DE5900&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
