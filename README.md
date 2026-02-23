@@ -32,7 +32,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 
 ## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
-&nbsp; **Bachelor of Technology in Computer Science and Engineering**  
+&nbsp; **Bachelor of Technology in Computer Science and Engineering**  <br>
 &nbsp; Swami Vivekananda University, Barrackpure  
 &nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
 
