@@ -23,13 +23,18 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹 **Tools & Productivity:** *Experienced with `GitHub` for version control, `Jupyter Notebooks` and Advanced `Excel`.*<br>
 <!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
-🔹 **Flipkart Retail Product Dataset Analysis** | `Python` `PostgreSQL` `Power BI` `SQLAlchemy` `Jupyter` – [Explore Full Analysis ➜](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis)  <br>
-🔹 **Naukri Jobs Data Analysis Using Web Scraping** | `NumPy` `Pandas` `Seaborn` `Selenium` `WebDriver` – [Explore Full Analysis ➜](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping)  <br>
-🔹 **Indian Crimes Dataset Analysis (2020 to 2024)** | `NumPy` `Pandas` `Seaborn` `Matplotlib` `Squarify` – [Explore Full Analysis ➜](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
-🔹 **AI Financial Market Data Analysis (2015 - 2024)** | `NumPy` `Pandas` `Seaborn` `Matplotlib` `Jupyter` – [Explore Full Analysis ➜](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
-🔹 **Covid-19 Data Analytics Dashboard–India State-wise** | `Power BI` `DAX` `Power Query` `KPIs` `Excel` – [Explore Full Analysis ➜](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
-🔹 **Customer Shopping Behavior Analysis** | `Pandas` `Numpy` `PostgreSQL` `windows function` `Power BI` – [Explore Full Analysis ➜](https://github.com/MalayBhunia/Customer-Shopping-Behavior) 
-
+🔹 Flipkart Retail Product Dataset Analysis | *🐍 `Python`  🐘 `PostgreSQL`  📊 `Power BI`  🔗 `SQLAlchemy`  📓 `Jupyter Notebook`* <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [*Explore Full Analysis Project* ⤴](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
+🔹 Naukri Jobs Data Analysis (Web Scraping) | *🔢 `NumPy`  🐼 `Pandas`  📈 `Seaborn`  🤖 `Selenium`  🔎 `Regex`  🌐 `WebDriver`*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [*Explore Full Analysis Project* ⤴](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping) <br>
+🔹 Indian Crimes Dataset Analysis (2020 – 2024) | *🔢 `NumPy`  🐼 `Pandas`  📈 `Seaborn`  📉 `Matplotlib`  🧩 `Squarify`  🧪 `EDA`* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [*Explore Full Analysis Project* ⤴](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
+🔹 AI Financial Market Data Analysis (2015-2024)| *🔢 `NumPy`  🐼 `Pandas`  📈 `Seaborn`  📉 `Matplotlib` 📓 `Jupyter Notebook`* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [*Explore Full Analysis Project* ⤴](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
+🔹 Covid-19 Dashboard (India State-wise) | *📊 `Power BI Desktop`  🔄 `Power Query`  📐 `DAX Formula` 🎯 `KPIs`  📑 `Excel`* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [*Explore Full Analysis Project* ⤴](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
+🔹 Customer Shopping Behavior Data Analysis | *🐍 `Python`  📊 `Power BI` 🐘 `PostgreSQL`  🪟 `Window Functions`  🧱 `CTEs`*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [*Explore Full Analysis Project* ⤴](https://github.com/MalayBhunia/Customer-Shopping-Behavior)
 
 ## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
 &nbsp; **Bachelor of Technology in Computer Science and Engineering**  <br>
