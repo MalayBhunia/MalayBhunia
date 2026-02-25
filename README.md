@@ -35,13 +35,13 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 
 ## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
-&nbsp; **Bachelor of Technology in Computer Science and Engineering**  <br>
-&nbsp; Swami Vivekananda University, Barrackpure  
-&nbsp; **CGPA: 8.00/10.0** | *June 2022 - June 2026*
+&nbsp;◆ **Bachelor of Technology in Computer Science and Engineering**  <br>
+&nbsp;▸ Swami Vivekananda University, Barrackpure  
+&nbsp;▸ **CGPA: 8.00/10.0** | *June 2022 - June 2026*
 
-&nbsp; **Higher Secondary (HS)** <br>
-&nbsp; Tikrapara A. M. High School  
-&nbsp; **Percentage: 92%** | *June 2020 - June 2022*
+&nbsp;◆ **Higher Secondary (HS)** <br>
+&nbsp;▸ Tikrapara A. M. High School  
+&nbsp;▸ **Percentage: 92%** | *June 2020 - June 2022*
 
 
 ## 📜 Certifications
