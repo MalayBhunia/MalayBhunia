@@ -16,32 +16,32 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
  
 ## 🛠 Tech Stack & Expertise <br>
-🔹 **Data Analysis:** *Proficient in Python `Python`&`Numpy` for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
-🔹 **Database Management:** *Advanced SQL `PostgreSQL`&`MySQL` for complex querying, CTEs, and database optimization.*<br>
-🔹 **BI & Visualization:** *Building interactive `Power BI` dashboards and statistical plots via `Seaborn`&`Matplotlib`.*<br>
-🔹 **Web Scraping:** *Skilled in `Selenium` and Python for automated extraction of dynamic web data into custom datasets.*<br>
-🔹 **Tools & Productivity:** *Experienced with `GitHub` for version control, `Jupyter Notebooks` and Advanced `Excel`.*<br>
+&nbsp;✦&nbsp; **Data Analysis:** *Proficient in Python `Python`&`Numpy` for cleaning, wrangling, and EDA to drive forecast accuracy.*<br>
+&nbsp;✦&nbsp; **Database Management:** *Advanced SQL `PostgreSQL`&`MySQL` for complex querying, CTEs, and database optimization.*<br>
+&nbsp;✦&nbsp; **BI & Visualization:** *Building interactive `Power BI` dashboards and statistical plots via `Seaborn`&`Matplotlib`.*<br>
+&nbsp;✦&nbsp; **Web Scraping:** *Skilled in `Selenium` and Python for automated extraction of dynamic web data into custom datasets.*<br>
+&nbsp;✦&nbsp; **Tools & Productivity:** *Experienced with `GitHub` for version control, `Jupyter Notebooks` and Advanced `Excel`.*<br>
 <!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
-🔹 ***Flipkart Retail Product Dataset Analysis*** | *Python • PostgreSQL • Power BI • SQLAlchemy • DAX • Jupyter Notebook* <br> 
+&nbsp;✦&nbsp; ***Flipkart Retail Product Dataset Analysis*** | *Python • PostgreSQL • Power BI • SQLAlchemy • DAX • Jupyter Notebook* <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
-🔹 ***Naukri Jobs Data Analysis Using Web Scraping*** | *NumPy • Pandas • Seaborn • EDA • Selenium • Regex • WebDriver*<br>
+&nbsp;✦&nbsp; ***Naukri Jobs Data Analysis Using Web Scraping*** | *NumPy • Pandas • Seaborn • EDA • Selenium • Regex • WebDriver*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping) <br>
-🔹 ***Indian Crimes Dataset Analysis (2020–2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • Squarify • Jupyter Notebook* <br>
+&nbsp;✦&nbsp; ***Indian Crimes Dataset Analysis (2020–2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • Squarify • Jupyter Notebook* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
-🔹 ***AI Financial Market Data Analysis (2015-2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • EDA • Jupyter Notebook* <br>
+&nbsp;✦&nbsp; ***AI Financial Market Data Analysis (2015-2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • EDA • Jupyter Notebook* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
-🔹 ***Covid-19 Analysis Dashboards (India State-wise)*** | *Power BI Desktop • Power Query • DAX Formula • KPIs • Excel* <br>
+&nbsp;✦&nbsp; ***Covid-19 Analysis Dashboards (India State-wise)*** | *Power BI Desktop • Power Query • DAX Formula • KPIs • Excel* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 
 ## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
-&nbsp;◆ **Bachelor of Technology in Computer Science and Engineering**  <br>
-&nbsp;▸ Swami Vivekananda University, Barrackpure  
-&nbsp;▸ **CGPA: 8.00/10.0** | *June 2022 - June 2026*
+&nbsp;➤ **Bachelor of Technology in Computer Science and Engineering**  <br>
+&nbsp;➥ Swami Vivekananda University, Barrackpure  
+&nbsp;➥ **CGPA: 8.00/10.0** | *June 2022 - June 2026*
 
-&nbsp;◆ **Higher Secondary (HS)** <br>
-&nbsp;▸ Tikrapara A. M. High School  
-&nbsp;▸ **Percentage: 92%** | *June 2020 - June 2022*
+&nbsp;➤ **Higher Secondary (HS)** <br>
+&nbsp;➥ Tikrapara A. M. High School  
+&nbsp;➥ **Percentage: 92%** | *June 2020 - June 2022*
 
 
 ## 📜 Certifications
