@@ -23,15 +23,15 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 &nbsp;✦&nbsp; **Tools & Productivity:** *Experienced with `GitHub` for version control, `Jupyter Notebooks` and Advanced `Excel`.*<br>
 <!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
-&nbsp;✦&nbsp; ***Flipkart Retail Product Dataset Analysis*** | *Python • PostgreSQL • Power BI • SQLAlchemy • DAX • Jupyter Notebook* <br> 
+🔹 ***Flipkart Retail Product Dataset Analysis*** | *Python • PostgreSQL • Power BI • SQLAlchemy • DAX • Jupyter Notebook* <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
-&nbsp;✦&nbsp; ***Naukri Jobs Data Analysis Using Web Scraping*** | *NumPy • Pandas • Seaborn • EDA • Selenium • Regex • WebDriver*<br>
+🔹 ***Naukri Jobs Data Analysis Using Web Scraping*** | *NumPy • Pandas • Seaborn • EDA • Selenium • Regex • WebDriver*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping) <br>
-&nbsp;✦&nbsp; ***Indian Crimes Dataset Analysis (2020–2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • Squarify • Jupyter Notebook* <br>
+🔹 ***Indian Crimes Dataset Analysis (2020–2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • Squarify • Jupyter Notebook* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
-&nbsp;✦&nbsp; ***AI Financial Market Data Analysis (2015-2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • EDA • Jupyter Notebook* <br>
+🔹 ***AI Financial Market Data Analysis (2015-2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • EDA • Jupyter Notebook* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
-&nbsp;✦&nbsp; ***Covid-19 Analysis Dashboards (India State-wise)*** | *Power BI Desktop • Power Query • DAX Formula • KPIs • Excel* <br>
+🔹 ***Covid-19 Analysis Dashboards (India State-wise)*** | *Power BI Desktop • Power Query • DAX Formula • KPIs • Excel* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
 
 ## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
