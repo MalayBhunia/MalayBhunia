@@ -27,7 +27,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
 🔹 ***Naukri Jobs Data Analysis Using Web Scraping*** | *NumPy • Pandas • Seaborn • EDA • Selenium • Regex • WebDriver*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping) <br>
-🔹 ***Apple Retail Sales Data Analysis Using SQL*** | *PostgreSQL • Window Function • CTEs  • Complex queries • Joins* <br>
+🔹 ***Apple Retail Sales Analysis Using SQL (1M dataset)*** | *PostgreSQL • Window Function • CTEs  • Complex queries • Joins* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
 🔹 ***AI Financial Market Data Analysis (2015-2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • EDA • Jupyter Notebook* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
