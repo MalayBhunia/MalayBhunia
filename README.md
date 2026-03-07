@@ -21,6 +21,8 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 🔹&nbsp; **BI & Visualization:** *Building interactive `Power BI` dashboards and statistical plots via `Seaborn`&`Matplotlib`.*<br>
 🔹&nbsp; **Web Scraping:** *Skilled in `Selenium` and Python for automated extraction of dynamic web data into custom datasets.*<br>
 🔹&nbsp; **Tools & Productivity:** *Experienced with `GitHub` for version control, `Jupyter Notebooks` and Advanced `Excel`.*<br>
+🔹&nbsp; **Core Competencies:** *Analytical Thinking, Problem Solving, Stakeholder Communication, Teamwork Collaboration.*<br>
+
 <!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
 🔹 ***Flipkart Retail Product Dataset Analysis*** | *Python • PostgreSQL • Power BI • SQLAlchemy • DAX • Jupyter Notebook* <br> 
