@@ -12,7 +12,7 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 - 🚀 *Exploring AI concepts & advanced analytics for a Data Science transition.*
 - 🎯 Future plan: Transitioning to a **Data Scientist** role.
 - 📫 How to reach me: [mbhunia098@gmail.com](mailto:mbhunia098@gmail.com)
-- 📄<a href="https://github.com/MalayBhunia/MalayBhunia/raw/main/Malay%20Bhunia%20Cv.pdf">  Download Resume  → </a> 
+- 📄<a href="https://github.com/MalayBhunia/MalayBhunia/blob/main/Malay_Bhunia_Cv.pdf">  Download Resume  → </a> 
 
  
 ## 🛠 Tech Stack & Expertise <br>
