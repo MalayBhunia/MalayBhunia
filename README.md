@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank"><b>Malay Bhunia</b></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"><br> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3100&pause=800&color=FF6A00&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Time+Series+Analysis;Building+Real-World+Analytics+Projects;Open+to+Entry-Level+Data+Analytics+Roles" /><br> <p align="left"><a href="https://www.linkedin.com/in/malay-bhunia-14ab712a6/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> <a href="https://malaybhunia-ds.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-034299?logo=google-chrome&logoColor=white"/></a> <a href="mailto:mbhunia098@gmail.com"><img src="https://img.shields.io/badge/Email-CD3004?logo=gmail&logoColor=white"/></a> <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://img.shields.io/badge/Naukri.com-06789D?logo=Naukri&logoColor=white"/></a> <a href="https://leetcode.com/u/Malay2200/"><img src="https://img.shields.io/badge/Leetcode-96740D?logo=leetcode&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100065094543831"><img src="https://img.shields.io/badge/Facebook-6127F5?logo=facebook&logoColor=white"/></a> <a href="https://x.com/mbhunia098"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="21"/></a></p>
+### Hi there, I'm <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank"><b>Malay Bhunia</b></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"><br> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3100&pause=800&color=FF6A00&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst.;Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Statistical+Analysis.;Building+End-to-End+Real-World+Analytics+Projects.;Open+to+Entry-Level+Data/BI+Analytics+Job+Roles." /><br> <p align="left"><a href="https://www.linkedin.com/in/malay-bhunia-14ab712a6/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> <a href="https://malaybhunia-ds.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-034299?logo=google-chrome&logoColor=white"/></a> <a href="mailto:mbhunia098@gmail.com"><img src="https://img.shields.io/badge/Email-CD3004?logo=gmail&logoColor=white"/></a> <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://img.shields.io/badge/Naukri.com-06789D?logo=Naukri&logoColor=white"/></a> <a href="https://leetcode.com/u/Malay2200/"><img src="https://img.shields.io/badge/Leetcode-96740D?logo=leetcode&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100065094543831"><img src="https://img.shields.io/badge/Facebook-6127F5?logo=facebook&logoColor=white"/></a> <a href="https://x.com/mbhunia098"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="21"/></a></p>
 
 ### Happy to see you here! 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**. <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
@@ -25,16 +25,18 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
 
 <!-- <img src="https://github.com/MalayBhunia/MalayBhunia/blob/main/illustration.png" width="200" align="right"> -->
 ## 📊 Featured Projects 
+🔹 ***Product Analytics & User Growth (SaaS Analytics)*** | *Pandas • Numpy • Seaborn • Matplolib • SQL • Power BI • VS Code* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Product-Analytics-and-User-Growth_SaaS) <br>
+🔹 ***Social Media Impact Analysis (2015–2026)*** | *Python • Pandas • Numpy • Seaborn • Statistical Analysis • SQL • Power BI* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Social-Media-Impact-Analysis-Python-PostgreSQL-Power-BI) <br>
 🔹 ***Flipkart Retail Product Dataset Analysis*** | *Python • PostgreSQL • Power BI • SQLAlchemy • DAX • Jupyter Notebook* <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Flipkart-Sales-Data-Analysis) <br>
 🔹 ***Naukri Jobs Data Analysis Using Web Scraping*** | *NumPy • Pandas • Seaborn • EDA • Selenium • Regex • WebDriver*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Naukri-Jobs-Data-Analysis-Using-Web-Scraping) <br>
-🔹 ***Apple Retail Sales Analysis Using SQL (1M dataset)*** | *PostgreSQL • Window Function • CTEs  • Complex queries • Joins* <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/-Crime-Trends-in-India-) <br>
-🔹 ***AI Financial Market Data Analysis (2015-2024)*** | *NumPy • Pandas • Seaborn • Matplotlib • EDA • Jupyter Notebook* <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/AI-Financial-Market-Analysis) <br>
-🔹 ***Covid-19 Analysis Dashboards (India State-wise)*** | *Power BI Desktop • Power Query • DAX Formula • KPIs • Excel* <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Covid---19-Dashboard-2020---2021-) <br>
+🔹 ***Samsung Supply Chain Analytics Dashboards*** | *Power BI Desktop • DAX Formula • Star Schema • Power Query • KPIs* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Samsung-Supply-Chain-Dashboard-Using-Power-BI) <br>
+🔹 ***Bank Transaction Fraud Analysis*** | *Python • Pandas • Numpy • Seaborn • Matplotlib • Scipy • Jupyter Notebook* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➥ *Explore Full Analysis Project* ⟶](https://github.com/MalayBhunia/Bank-transaction-fraud-analysis) <br>
 
 ## 🎓 Education <br> <img align='right' src="Thinking.gif" alt="Coding Boy" width="223">
 &nbsp;&nbsp;➤ **Bachelor of Technology in Computer Science and Engineering**  <br>
@@ -63,6 +65,6 @@ I’m an **aspiring Data Analyst** passionate about turning raw data into clear,
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=DE5900&center=true&vCenter=true&width=700&lines=If+you+like+my+work%2C+please+star+my+repositories;Your+support+keeps+me+motivated;More+projects+coming+soon;Thank+you+for+visiting" />  
 
   <b>✨ Let’s connect, collaborate & build impactful data solutions together ✨</b> <br>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:9B1220,50:3A0A3A,100:0A1550"/>
   <img align="right" width ="90" src="https://visitor-badge.laobi.icu/badge?page_id=MalayBhunia.MalayBhunia" /> <img align="right" width ="125" src="https://komarev.com/ghpvc/?username=MalayBhunia&color=blue" />
 </div>
